@@ -1,0 +1,31 @@
+
+        body{
+            text-align: left;
+            height: 100%;
+            width: 100%;
+            margin:0;
+            padding: 0;
+        }
+        p{
+            background-attachment: purple;
+            color: red;
+        }
+        h1{
+            text-align: center;
+            border: 3px solid white;
+        }
+        form{
+            color: black;
+
+            border: 5px solid black;
+            background-color: #517419;
+            height: 400px;
+            width: 700px;
+            padding: 100px 60px;
+            margin: 100px;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 800px;
+
+        }
+
+    
