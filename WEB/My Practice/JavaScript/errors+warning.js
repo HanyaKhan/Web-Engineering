@@ -1,0 +1,10 @@
+console.log("this is the text")
+console.warn("this is warning")
+console.error("this is error")
+console.info("this is simple info")
+
+alert("this is alert")
+var ans2=confirm("Acha waqie??")
+console.log(ans2)
+var naam=prompt("Enter your name")
+console.log("Name:",naam)
